@@ -1,0 +1,11 @@
+username,last_login_date,account_status,department
+user1,2025-09-01,active,IT
+user2,2025-10-01,disabled,Finance
+user3,2025-11-01,active,HR
+user4,2025-12-01,disabled,IT
+user5,2026-01-01,active,Finance
+user6,2026-02-01,disabled,HR
+user7,2026-03-01,active,IT
+user8,2026-04-01,disabled,Finance
+user9,2026-05-01,active,HR
+user10,2026-06-01,disabled,IT
