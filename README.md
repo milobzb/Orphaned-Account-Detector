@@ -43,3 +43,26 @@ THRESHOLD = 90
 Change this value to match your organization's account review policy.
 
 ## Example Output
+
+    ORPHANED ACCOUNT DETECTOR REPORT
+    Generated: 2026-06-28
+
+    FLAGGED ACCOUNTS:
+    user1 | 300 days inactive | Flagged
+    user2 | 270 days inactive | Flagged
+    user3 | 239 days inactive | Flagged
+    user4 | 209 days inactive | Flagged
+    user5 | 178 days inactive | Flagged
+    user6 | 147 days inactive | Flagged
+    user7 | 119 days inactive | Flagged
+
+    SUMMARY:
+    Total accounts scanned: 10
+    Flagged: 7
+    OK: 3
+
+## Author
+
+Emanuel Botros
+DevOps & Identity Operations Engineer | CompTIA Security+
+UCF MS Cybersecurity & Privacy (Expected May 2027)
