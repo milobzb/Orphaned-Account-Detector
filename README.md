@@ -1,5 +1,7 @@
 # Orphaned Account Detector
 
+![Security Pipeline](https://github.com/milobzb/Orphaned-Account-Detector/actions/workflows/security.yml/badge.svg)
+
 A Python automation tool that detects stale and orphaned user accounts by parsing identity exports, calculating inactivity windows, and generating audit reports. Built as a portfolio project to demonstrate IAM security automation skills.
 
 ## The Problem
