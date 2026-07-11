@@ -1,0 +1,10 @@
+name: Security Pipeline
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  security:
+    uses: milobzb/security-pipeline/.github/workflows/security-scan.yml@main
